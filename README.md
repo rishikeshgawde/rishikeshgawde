@@ -1,6 +1,5 @@
 ### Hi there 👋
-![giphy](https://user-images.githubusercontent.com/50143610/161472315-e0de0c17-013c-4e6e-a9f7-fda03eea1044.gif)
-
+![gif](https://user-images.githubusercontent.com/50143610/161472613-3f9cea01-eae0-4ad6-a881-082a43d4bb8f.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...Managament of Technology @NYU
