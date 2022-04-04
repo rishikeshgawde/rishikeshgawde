@@ -7,7 +7,3 @@
 - 🤔 I’m looking for help with ...Developing a good Product Sense
 - 💬 Ask me about ...My experience or anaything
 - 📫 How to reach me: ...[My Website](https://rishikeshgawde.github.io)
-<--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
