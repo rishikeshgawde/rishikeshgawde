@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![Uploading 12345.gif…]()
+![12345](https://user-images.githubusercontent.com/50143610/162076623-846968dd-5716-498b-82e0-2822d15a5244.gif)
 
 
 - 🔭 I’m currently working on ...
