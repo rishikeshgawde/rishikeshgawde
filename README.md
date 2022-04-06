@@ -1,5 +1,5 @@
 ### Hi there 👋
-![1234](https://user-images.githubusercontent.com/50143610/162075889-97f54526-0501-4e2b-b1d4-70c3c652d8c5.gif)
+![1234](https://user-images.githubusercontent.com/50143610/162076048-b6f1bb32-d66c-4577-8865-af10b7d2af27.gif)
 
 
 - 🔭 I’m currently working on ...
